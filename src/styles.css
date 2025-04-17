@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+/* Simple CSS for layout */
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 8px;
+    border: 1px solid #ccc;
+  }
+  button {
+    margin: 0 5px;
+  }
+  input {
+    margin: 5px;
+  }
+  
